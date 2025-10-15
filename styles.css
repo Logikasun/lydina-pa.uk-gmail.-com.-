@@ -1,0 +1,30 @@
+body{
+  font-family: sans-serif;
+  background-color:#D52A2A;
+  color: #F2F2F2;
+  font-size: 24px;
+  padding: 20px;
+  
+}
+
+h1{
+    text-align: center;
+}
+
+h6{
+    text-align: center;
+}
+
+p{
+   padding: 20px; 
+   border-radius: 20px;
+   text-align: justify;
+   border: 3px solid white;
+}
+
+a{
+  color: #F2F2F2;  
+}
+img{
+   border-radius: 20px; 
+}
